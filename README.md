@@ -36,9 +36,9 @@
   <summary>:zap: GitHub Stats</summary>
 </br>
 <a href="https://github.com/shivam1608">
-<img align="center" alt="Shivzee's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=Shivam1608&&show_icons=true&theme=tokyonight&layout=compact"/>
+<img align="center" alt="Akshat's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=akshat0098&&show_icons=true&theme=tokyonight&layout=compact"/>
 </br>
 </br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam1608&show_icons=true&theme=tokyonight&layout=compact" alt="Shivzee" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat0098&show_icons=true&theme=tokyonight&layout=compact" alt="akshat" />
 </a>
 </details>
