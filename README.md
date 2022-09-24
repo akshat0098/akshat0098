@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Shivam 👋</h1>
-<h3 align="center">A student from India who likes to program stuff 🚀</h3>
+<h1 align="center">Hi, I'm Akshat 👋</h1>
+<h3 align="center">A Entreprenuer from India who likes to program stuff 🚀</h3>
 
 ### Languages and Tools : 
 
@@ -12,8 +12,7 @@
 <br />
 <br />
 [<img align="left" alt="MongoDB" width="30px" src="https://skillicons.dev/icons?i=mongodb" />](https://www.mongodb.com/)
-[<img align="left" alt="Tailwindcss" width="30px" src="https://skillicons.dev/icons?i=tailwind" />](https://tailwindcss.com/)
-[<img align="left" alt="Android Studio" width="30px" src="https://skillicons.dev/icons?i=androidstudio" />](https://developer.android.com/studio)
+
 [<img align="left" alt="Idea" width="30px" src="https://skillicons.dev/icons?i=idea" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="30px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
