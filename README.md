@@ -24,13 +24,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Discord Status</summary>
-</br>
-<a href="https://discord.com/akshat_tln#3722">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/591470828370264075.png" />
-</a>
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
