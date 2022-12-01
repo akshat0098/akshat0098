@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Akshat 👋</h1>
-<h3 align="center">A Entreprenuer from India who likes to program stuff 🚀</h3>
+<h1 align="center">Hi, I'm Akshat Srivastava👋</h1>
+<h3 align="center">A Entreprenuer, A Machine Learning Engineer , A Software Developer from India who likes to program stuff 🚀</h3>
 
 ### Languages and Tools : 
 
 [<img align="left" alt="Java" width="30px" src="https://skillicons.dev/icons?i=java" />](https://java.com/)
-[<img align="left" alt="Cplusplus" width="30px" src="https://skillicons.dev/icons?i=cpp" />](https://cplusplus.com/)
+
 [<img align="left" alt="JavaScript" width="30px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
 [<img align="left" alt="Node.js" width="30px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
 [<img align="left" alt="Express Js" width="30px" src="https://skillicons.dev/icons?i=express" />](https://expressjs.com/)
@@ -28,7 +28,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
-<a href="https://github.com/shivam1608">
+<a href="https://github.com/akshat0098">
 <img align="center" alt="Akshat's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=akshat0098&&show_icons=true&theme=tokyonight&layout=compact"/>
 </br>
 </br>
