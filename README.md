@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akshat Srivastava👋</h1>
-<h3 align="center">A Entreprenuer, A Machine Learning Engineer , A Software Developer from India who likes to program stuff 🚀</h3>
+<h3 align="center">A Technologist, A Machine Learning Engineer , A Software Developer from India who likes to program stuff 🚀</h3>
 
 ### Languages and Tools : 
 
