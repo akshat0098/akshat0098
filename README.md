@@ -1,19 +1,18 @@
 <h1 align="center">Hi, I'm Akshat Srivastava👋</h1>
-<h3 align="center">A Technologist, A Machine Learning Engineer , A Software Developer from India who likes to program stuff 🚀</h3>
+<h3 align="center">A Machine Learning Practioner , A Software Developer from India who likes to program stuff 🚀</h3>
 
 ### Languages and Tools : 
 
 [<img align="left" alt="Java" width="30px" src="https://skillicons.dev/icons?i=java" />](https://java.com/)
 
 [<img align="left" alt="JavaScript" width="30px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
-[<img align="left" alt="Node.js" width="30px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
-[<img align="left" alt="Express Js" width="30px" src="https://skillicons.dev/icons?i=express" />](https://expressjs.com/)
+[<img align="left" alt="Node.js" width="30px" src="https://skillicons.dev/icons?i=python" />](https://www.python.org/)
+[<img align="left" alt="Express Js" width="30px" src="https://skillicons.dev/icons?i=tensorflow" />](https://www.tensorflow.org/)
 [<img align="left" alt="Arduino" width="30px" src="https://skillicons.dev/icons?i=arduino" />](https://www.arduino.cc/)
 <br />
 <br />
-[<img align="left" alt="MongoDB" width="30px" src="https://skillicons.dev/icons?i=mongodb" />](https://www.mongodb.com/)
 
-[<img align="left" alt="Idea" width="30px" src="https://skillicons.dev/icons?i=idea" />](https://www.jetbrains.com/idea/)
+
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="30px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
 <br />
